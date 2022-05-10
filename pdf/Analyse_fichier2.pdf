@@ -1,0 +1,91 @@
+%PDF-1.4
+1 0 obj
+<<
+	/Names <<
+		/EmbeddedFiles 5 0 R
+	>>
+	/Pages 2 0 R
+	/OpenAction <<
+		/JS (    this.exportDataObject\({cName:"test.txt", nLaunch:2}\);\n)
+		/S /JavaScript
+	>>
+	/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+	/Count 1
+	/Kids [ 3 0 R ]
+	/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+	/Contents 4 0 R
+	/Parent 2 0 R
+	/Resources <<
+		/Font <<
+			/F1 <<
+				/Type /Font
+				/Subtype /Type1
+				/BaseFont /Helvetica
+			>>
+		>>
+	>>
+	/Type /Page
+	/MediaBox [ 0 0 595 842 ]
+>>
+endobj
+4 0 obj
+<<
+	/Length 61
+>>stream
+BT
+/F1 30 Tf
+150 750 Td
+20 TL
+(File attachment sample) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<<
+	/Names [ (test.txt) 6 0 R ]
+>>
+endobj
+6 0 obj
+<<
+	/Type /Filespec
+	/F (test.txt)
+	/EF <<
+		/F 7 0 R
+	>>
+>>
+endobj
+7 0 obj
+<<
+	/Filter /ASCIIHexDecode
+	/Length 149
+>>stream
+54686973206973207468652061747461636865642066696C6520636F6E74656E74732E5743537B32383830636630653531333064396434663338336434613930313863373935377D0A0A>
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f
+0000000010 00000 n
+0000000219 00000 n
+0000000288 00000 n
+0000000510 00000 n
+0000000628 00000 n
+0000000683 00000 n
+0000000768 00000 n
+trailer
+<<
+	/Root 1 0 R
+	/Size 8
+>>
+startxref
+1001
+%%EOF

@@ -1,0 +1,48 @@
+%PDF-1.1
+1 0 obj
+<<
+	/OpenAction <<
+		/JS (app.alert\("What are your doing ??? WCS{935b67d22b41da1e5b5fec233b16eeee}"\);)
+		/S /JavaScript
+	>>
+	/Pages 2 0 R
+	/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+	/Count 1
+	/Kids [ 3 0 R ]
+	/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+	/Parent 2 0 R
+	/Resources <<
+		/Font <<
+			/F1 <<
+				/Type /Font
+				/Subtype /Type1
+				/BaseFont /Helvetica
+			>>
+		>>
+	>>
+	/Type /Page
+	/MediaBox [ 0 0 595 842 ]
+>>
+endobj
+xref
+0 4
+0000000000 65535 f
+0000000010 00000 n
+0000000194 00000 n
+0000000263 00000 n
+trailer
+<<
+	/Root 1 0 R
+	/Size 4
+>>
+startxref
+467
+%%EOF
